@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "756ff30ba6fba65504b5e3a67d851244"
+    "revision": "ad064759948675239f31f379880c56b8"
   },
   {
     "url": "assets/css/0.styles.f0d21de3.css",
@@ -102,20 +102,24 @@ self.__precacheManifest = [
     "revision": "20ea43769d10177dd101343f7dba62cb"
   },
   {
-    "url": "assets/js/24.2ad1f624.js",
-    "revision": "fa90dfc2b5605bcca9f754367746d9e6"
+    "url": "assets/js/24.ba053437.js",
+    "revision": "11b539aca60632700fc282ae1198744e"
   },
   {
-    "url": "assets/js/25.2981dd7e.js",
-    "revision": "3a5408282cf60d6c4947647ff1b303ae"
+    "url": "assets/js/25.38229055.js",
+    "revision": "2272a038249a7c74eca4969b4fdef3bc"
   },
   {
-    "url": "assets/js/26.0977d4e7.js",
-    "revision": "9cdf5e9dadc6760d956e0293857abce2"
+    "url": "assets/js/26.455d4ba7.js",
+    "revision": "fa7014f2bff764e6ca261ffc5c9c71a0"
   },
   {
-    "url": "assets/js/27.a66d6abb.js",
-    "revision": "049a8373c11073902f5ff12aeedd71a8"
+    "url": "assets/js/27.a6c1f3ba.js",
+    "revision": "69439be6bd0f47856b8c2a4256180030"
+  },
+  {
+    "url": "assets/js/28.bb8810ef.js",
+    "revision": "e0a557cd23807c92657997bef08a1623"
   },
   {
     "url": "assets/js/3.99cb1f85.js",
@@ -138,16 +142,20 @@ self.__precacheManifest = [
     "revision": "3d69d7047a111ef22e55b5ec73129ea7"
   },
   {
-    "url": "assets/js/app.9f7c6cc5.js",
-    "revision": "8af52f99e475b93b6b1f735c428a2df8"
+    "url": "assets/js/app.7d901147.js",
+    "revision": "32e3b4aae489e4288142639669146973"
   },
   {
     "url": "assets/js/vendors~docsearch.4ad8f938.js",
     "revision": "10fc9a7c7b96692c18757b3caab9f1fb"
   },
   {
+    "url": "guide/quickstart.html",
+    "revision": "b41ca6693cac5de3987515cf36080b44"
+  },
+  {
     "url": "guide/VuePress创建文档网站.html",
-    "revision": "603c8e4cf91122217136b11cbc10927e"
+    "revision": "8727b816335488f3d1e76ebae0f4bacd"
   },
   {
     "url": "images/book.jpg",
@@ -155,11 +163,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e3e368db3d73196ee9a31b198379569f"
+    "revision": "1779423a56421d86bc8d1b176126b757"
   },
   {
     "url": "link/contact.html",
-    "revision": "ae18981d6c335a7afc8cffd42f1a2d90"
+    "revision": "467be14c8179b98912cfe7bb9217b0b0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
