@@ -86,10 +86,14 @@ module.exports = {
         text: '主页', link: '/',
       },
       {
-        text: '指南', link: '/guide/VuePress创建文档网站',
+        text: '指南', 
+        items: [
+          {text: '快速开始',link: '/guide/quickstart'},
+          {text: 'vuepress部署',link: '/guide/VuePress创建文档网站'}
+        ]
       },
       {
-        text: '项目地址',link: 'http://dancehole.cn'
+        text: '项目介绍',link: 'https://intro.dancehole.cn/library.html'
       }
       // {
       //   text: 'GitHub', link: 'https://github.com/dancehole/vuepress'
